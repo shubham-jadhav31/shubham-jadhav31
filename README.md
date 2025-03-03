@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi there, I'm Shubham Jadhav! 👋
 
-<!--
-**shubham-jadhav31/shubham-jadhav31** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 About Me
+- 🎓 Computer Science Engineering student with AI-ML specialization
+- 🔍 Exploring Data Science, Web Development, and Cybersecurity
+- 💻 Currently revising Python and preparing for Software Engineering roles
+- 🏆 IBM Data Science Certified
 
-Here are some ideas to get you started:
+## 💡 Tech Stack
+![Python](https://img.shields.io/badge/-Python-blue?style=flat&logo=python)
+![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?style=flat&logo=javascript)
+![React](https://img.shields.io/badge/-React-blue?style=flat&logo=react)
+![Node.js](https://img.shields.io/badge/-Node.js-green?style=flat&logo=node.js)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-blue?style=flat&logo=postgresql)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📈 GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Shubham-J-31&show_icons=true&theme=radical)
+
+## 📫 Connect with Me
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/shubham-jadhav)
+[![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat&logo=github)](https://github.com/Shubham-J-31)
