@@ -3,8 +3,8 @@
 ## 🚀 About Me
 - 🎓 Computer Science Engineering student with AI-ML specialization
 - 🔍 Exploring Data Science, Web Development, and Cybersecurity
-- 💻 Currently revising Python and preparing for Software Engineering roles
-- 🏆 IBM Data Science Certified
+- 💻 Currently preparing for Software Engineering roles
+- 🏆 IBM Professional Data Science Certified
 
 ## 💡 Tech Stack
 <p align="left" style="text-decoration: none;"> 
@@ -73,4 +73,4 @@
 
 ## 📫 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/shubham-jadhav31)
-[![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat&logo=github)](https://github.com/Shubham-J-31)
+[![Gmail](https://img.shields.io/badge/-Gmail-red?style=flat&logo=gmail)](mailto:shubhamjadhav3112@gmail.com)
